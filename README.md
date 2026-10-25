@@ -34,7 +34,7 @@ To run any of the source files locally, make sure you have a C compiler installe
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/c-programming-projects.git
-   cd c-programming-projects
+   cd c-programming-projects```
  
 
 2. **Run a single C file (e.g., car_parking.c):**
