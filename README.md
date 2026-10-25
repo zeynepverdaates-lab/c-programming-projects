@@ -35,14 +35,14 @@ To run any of the source files locally, make sure you have a C compiler installe
    ```bash
    git clone https://github.com/your-username/c-programming-projects.git
    cd c-programming-projects
-   ´´´
+   ```
  
 
 2. **Run a single C file (e.g., car_parking.c):**
   ```bash
   gcc car_parking.c -o program
   ./program        # On Windows: program.exe
-  ´´´
+  ```
 
 
 3.**Run folder projects (ATM or Phonebook)**
@@ -50,7 +50,7 @@ To run any of the source files locally, make sure you have a C compiler installe
   cd ATM_Bank_Management_System
   gcc main.c -o atm_app
   ./atm_app        # On Windows: atm_app.exe
-  ´´´
+  ```
 
   
 
