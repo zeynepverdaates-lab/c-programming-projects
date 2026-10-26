@@ -18,6 +18,23 @@ The repository covers key foundational topics and mini-projects:
 
 ---
 
+## 📂 Repository Structure
+
+```text
+c-programming-projects/
+├── ATM_Bank_Management_System/    # Full CLI banking management application
+├── phonebook_application/         # Contact management application with file handling
+└── fundamentals/         # Core C syntax, math algorithms, recursion & arrays
+    ├── array.c
+    ├── average.c
+    ├── comparison_operators.c
+    ├── count_letters.c
+    ├── digits.c
+    ├── exponential_function.c
+    ├── factorial.c
+    └── fibonacci_functions.c
+```
+
 ## 🛠️ Built With
 
 - **Language:** C (C99 / C11)
