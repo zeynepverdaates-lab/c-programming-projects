@@ -22,17 +22,38 @@ The repository covers key foundational topics and mini-projects:
 
 ```text
 c-programming-projects/
-├── ATM_Bank_Management_System/    # Full CLI banking management application
-├── phonebook_application/         # Contact management application with file handling
-└── fundamentals/         # Core C syntax, math algorithms, recursion & arrays
+├── ATM_Bank_Management_System/        # Full CLI banking management application
+|    ├── main.c
+|    ├── functions.h
+|    ├── prototype.h
+|    └──  clients.txt
+├── phonebook_application/             # Contact management application with file handling
+|    ├── main.c
+|    ├── functions.h
+|    ├── prototype.h
+|    └──  phonebook.txt       
+└── fundamentals/                      # Core C syntax, math algorithms, pointers & arrays
     ├── array.c
     ├── average.c
+    ├── car_parking.c
     ├── comparison_operators.c
     ├── count_letters.c
     ├── digits.c
     ├── exponential_function.c
     ├── factorial.c
-    └── fibonacci_functions.c
+    ├── fibonacci_functions.c
+    ├── memory_functions.c
+    ├── memory_managmnet.c
+    ├── namescroll.c
+    ├── nested.c
+    ├── pointer_address.c
+    ├── pointers.c
+    ├── prime_numbers_check.c
+    ├── reverse_array.c
+    ├── selection_sort.c
+    ├── strings_operations.c
+    ├── triangle_pattern.c
+    └── two_dim_array.c
 ```
 
 ## 🛠️ Built With
